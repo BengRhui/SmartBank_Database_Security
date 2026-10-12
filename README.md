@@ -72,4 +72,4 @@ The project applies database security principles to a simulated banking environm
 ## Documentation
 
 The full project report that documents the database architecture, security control implementations, configuration procedures, 
-test cases, and verification results, can be accessed [here]().
+test cases, and verification results, can be accessed [here](https://github.com/BengRhui/SmartBank_Database_Security/blob/a150568c604187d787400c6a9526b51612847746/Report/G31%20DBS%20Assignment.pdf).
